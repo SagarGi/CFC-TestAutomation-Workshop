@@ -2,7 +2,7 @@
 
 ## Day1
 
-- [ ] Setup demo project (to write test) and environment required
+- [ ] Setup demo [project](https://github.com/SwikritiT/todo) (to write test) and environment required
 - [ ] Set up test folder structure
 - [ ] Brief about BDD (Behaviour Driven Development)
 - [ ] Brief about writing feature files
